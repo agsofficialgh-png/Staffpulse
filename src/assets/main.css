@@ -1,0 +1,16 @@
+@import './base.css';
+
+#app {
+  min-height: 100vh;
+}
+
+::selection {
+  background: #c8f2df;
+  color: #173c30;
+}
+
+@media (max-width: 640px) {
+  :root {
+    font-size: 15px;
+  }
+}
