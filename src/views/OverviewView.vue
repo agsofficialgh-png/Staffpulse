@@ -13,6 +13,7 @@
         <span class="account-mark" aria-hidden="true">OP</span>
         <span><strong>Operations Lead</strong><small>StaffPulse workspace</small></span>
       </div>
+      <div></div>
     </header>
 
     <div class="dashboard-content">
